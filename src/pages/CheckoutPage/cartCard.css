@@ -1,0 +1,47 @@
+.checkout-card {
+    border-color: #F4F4F4;
+    box-shadow: 0px 3px 6px #00000029;
+    grid-row: 3;
+    border-radius: .3em;
+    border-width: 1px;
+    display: flex;
+    padding: .6em;
+    margin-bottom: 1em;
+    padding-right: 1em;
+    align-items: center;
+}
+
+#checkout-course-logo {
+    width: 4em;
+    height: 4em;
+    background-color: #F2F2F2;
+    margin-right: .6em;
+}
+
+.checkout-title-block {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    flex: 1;
+    align-items: flex-start;
+}
+#course-title {
+    overflow: hidden;
+}
+#checkout-author {
+    font-size: .8em;
+    color: #080808;
+}
+
+#move-to-wishlist {
+    color: #1873CE;
+    font-size: .8em;
+}
+
+#checkout-course-price {
+    margin-left: 1em;
+}
+#delete-button {
+    padding-left: 1em;
+    cursor: pointer;
+}

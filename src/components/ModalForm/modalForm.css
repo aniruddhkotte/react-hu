@@ -1,0 +1,45 @@
+.modal-container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.close {
+  display: none;
+}
+
+.modal-body {
+  width: 30%;
+  height: 20%;
+}
+
+.modal-content {
+  background: white;
+  padding: 1.5em;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+}
+
+.modal-head {
+  display: flex;
+  padding: .4em;
+  background-color: #EFF2FF;
+  justify-content: flex-end
+}
+#status-icon {
+  height: 1.5em;
+  width: 1.5em;
+  margin-right: 1em
+}
+#close-icon {
+  cursor: pointer;
+  height: 1em;
+}

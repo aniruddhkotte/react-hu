@@ -1,0 +1,98 @@
+.card-list-container {
+    grid-row: 3;
+    grid-column: 1;
+    width: 100%;
+}
+.course-card {
+    border-color: #F4F4F4;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: .3em;
+    border-width: 1px;
+    display: flex;
+    padding: .6em;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+#course-logo {
+    width: 4em;
+    height: 4em;
+    background-color: #F2F2F2;
+    margin-right: .6em;
+}
+
+.title-block {
+    display: grid;
+    row-gap: .5em;
+    grid-template-columns: max-content max-content 1fr;
+    width: 35%;
+}
+#course-title {
+    grid-column: 1/4;
+    overflow: hidden;
+}
+#tag1 {
+    grid-column: 1;
+    background-color: #E25B32;
+    height: min-content;
+    border-radius: 4px;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: .7em;
+    color: #FFFFFF;
+    margin-right: 1em;
+}
+#tag2 {
+    grid-column: 2;
+    background-color: #E25B32;
+    height: min-content;
+    border-radius: 4px;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: .7em;
+    color: #FFFFFF;
+}
+#author {
+    font-size: .8em;
+    color: #080808;
+    flex: 1;
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: center;
+}
+#wishlist-icon {
+    width: 1.2em;
+    height: 1.2em;
+    margin-left: 1em;
+}
+#final-price {
+    margin-left: 1em;
+}
+#original-price {
+    text-decoration: line-through;
+    margin-left: 1em;
+    font-size: .8em;
+    color: #080808;
+}
+#add-button {
+    background-color: #FF6738;
+    border: none;
+    color: #FFFFFF;
+    margin-left: 1em;
+    padding: .5em;
+    padding-left: .8em;
+    padding-right: .8em;
+    cursor: pointer;
+}
+#add-button:hover {
+    background-color: #fc8460;
+}
+#add-button:active {
+    border: none;
+    background-color: #ff5f2e;
+}
+#arrow-icon {
+    height: .7em;
+    padding-left: 1em;
+    padding-right: 1em;
+}

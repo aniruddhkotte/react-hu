@@ -1,0 +1,164 @@
+{
+    "courses": [
+      {
+        "id": 101,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 1000,
+        "discount-percentage": 10,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 102,
+        "title": "The Complete React Developer Course",
+        "author": "John",
+        "actual-price": 899,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 103,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 1099,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 104,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 800,
+        "discount-percentage": 0,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 105,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 25,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 106,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 10,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 107,
+        "title": "The Complete React Developer Course",
+        "author": "John",
+        "actual-price": 899,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 108,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 1099,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 109,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 800,
+        "discount-percentage": 0,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 110,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 25,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 111,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 10,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 112,
+        "title": "The Complete React Developer Course",
+        "author": "John",
+        "actual-price": 899,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 113,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 1099,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 114,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 800,
+        "discount-percentage": 0,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 115,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 25,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 116,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 10,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 117,
+        "title": "The Complete React Developer Course",
+        "author": "John",
+        "actual-price": 899,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 118,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 1099,
+        "discount-percentage": 10,
+        "tags": ["React", "React Hooks"]
+      },
+      {
+        "id": 119,
+        "title": "Build Responsive Websites with HTML5 and CSS",
+        "author": "John",
+        "actual-price": 800,
+        "discount-percentage": 0,
+        "tags": ["React", "React"]
+      },
+      {
+        "id": 120,
+        "title": "Responsive Design Course XYZ How to design responsive templates",
+        "author": "Joseph Marie",
+        "actual-price": 932.56,
+        "discount-percentage": 25,
+        "tags": ["React", "React"]
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+.search-bar {
+    grid-row: 2;
+    grid-column: 2;
+    display: flex;
+    height: min-content;
+}
+
+input, input:focus-within {
+    border: none;
+    background-color: #EFF2FF;
+}
+#search-input {
+    flex-grow: 100;
+    height: 2em;
+    padding: 1em;
+}
+#search-icon {
+    background-color: #FF6738;
+    height: auto;
+    padding-left: .5em;
+    padding-right: .5em;
+}

@@ -1,0 +1,29 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+main {
+  display: grid;
+  grid-template-columns: 75% 1fr;
+  grid-template-rows: auto auto;
+  grid-row: nowrap;
+  overflow: auto;
+  column-gap: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.course-heading {
+  display: flex;
+  grid-row: 2;
+  margin-bottom: 1em;
+  justify-content: space-between;
+  grid-column: 1;
+  width: 100%;
+}
+
+#course-head-text {
+  font-weight: bold;
+}

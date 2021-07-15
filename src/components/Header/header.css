@@ -1,0 +1,33 @@
+p {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    background-color: #F5F5F5;
+    justify-content: space-between;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: sticky;
+    top: 0;
+}
+
+#hashedin-logo {
+    padding-left: 1.5em;
+}
+.nav-section {
+    display: flex;
+}
+
+#courses-text {
+    font-weight: bold;
+    padding: 1em;
+    cursor: pointer;
+}
+
+#wishlist-text, #cart-icon, #profile-icon {
+    padding: 1em;
+    cursor: pointer;
+}
